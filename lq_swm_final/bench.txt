@@ -1,0 +1,394 @@
+Iteration 10/50 - Length 32 with Reference:
+Input Sequence A: TCCTTACTGGTTTATGGTCGGTTGCTGACGGT
+Generated Reference Sequence: CCTTTTCTTTGGCGCAGGAAGAGAAGACATGT
+Alignment Score: 2.58
+Avg Alignment Time: 0.014523333333333333 sec
+Avg Traceback Time: 3e-05 sec
+
+Alignment:
+CTGGTTTATGG
+||  | | |||
+CTTTTCTTTGG
+
+--------------------------------------------------------------------------------
+Iteration 10/50 - Length 32 with Reference:
+Input Sequence A: TCCTTACTGGTTTATGGTCGGTTGCTGACGGT
+Generated Reference Sequence: CAGCTCGATCTCGGGGGGGACGGCAGGTTAGT
+Alignment Score: 3.01
+Avg Alignment Time: 0.01508 sec
+Avg Traceback Time: 3e-05 sec
+
+Alignment:
+CTGGTTTAT
+| ||||  |
+CAGGTTAGT
+
+--------------------------------------------------------------------------------
+Iteration 10/50 - Length 32 with Reference:
+Input Sequence A: TCCTTACTGGTTTATGGTCGGTTGCTGACGGT
+Generated Reference Sequence: ACGAGTGACATCGTCTGTTCGTGGGTTCCTGT
+Alignment Score: 3.92
+Avg Alignment Time: 0.015646666666666666 sec
+Avg Traceback Time: 3e-05 sec
+
+Alignment:
+TTATGGTCGGTTGCTG
+|  | || |||| |||
+TGTTCGTGGGTTCCTG
+
+--------------------------------------------------------------------------------
+Iteration 20/50 - Length 32 with Reference:
+Input Sequence A: TGGCGTTTCCATTTTAAGAGACGCGGTGGTGA
+Generated Reference Sequence: CCTTTTCTTTGGCGCAGGAAGAGAAGACATGT
+Alignment Score: 3.67
+Avg Alignment Time: 0.01499833333333333 sec
+Avg Traceback Time: 1.5e-05 sec
+
+Alignment:
+CATTTTAAGAGACGCGG
+| ||||    | ||| |
+CCTTTTCTTTGGCGCAG
+
+--------------------------------------------------------------------------------
+Iteration 20/50 - Length 32 with Reference:
+Input Sequence A: TGGCGTTTCCATTTTAAGAGACGCGGTGGTGA
+Generated Reference Sequence: CAGCTCGATCTCGGGGGGGACGGCAGGTTAGT
+Alignment Score: 3.18
+Avg Alignment Time: 0.015256666666666663 sec
+Avg Traceback Time: 1.5e-05 sec
+
+Alignment:
+TCCATTTTAAGAGACGCGG
+|| || |   | |   |||
+TCGATCTCGGGGGGGACGG
+
+--------------------------------------------------------------------------------
+Iteration 20/50 - Length 32 with Reference:
+Input Sequence A: TGGCGTTTCCATTTTAAGAGACGCGGTGGTGA
+Generated Reference Sequence: ACGAGTGACATCGTCTGTTCGTGGGTTCCTGT
+Alignment Score: 2.96
+Avg Alignment Time: 0.01552333333333333 sec
+Avg Traceback Time: 1.5e-05 sec
+
+Alignment:
+AGAGACGCGGT
+|| |||   ||
+AGTGACATCGT
+
+--------------------------------------------------------------------------------
+Iteration 30/50 - Length 32 with Reference:
+Input Sequence A: TTGTCGGAGTTCGAGTCTAGAACCTATATAGG
+Generated Reference Sequence: CCTTTTCTTTGGCGCAGGAAGAGAAGACATGT
+Alignment Score: 2.89
+Avg Alignment Time: 0.015263333333333327 sec
+Avg Traceback Time: 2.111111111111111e-05 sec
+
+Alignment:
+TTGTCGGAGTTCGAG
+||| || ||   |||
+TTGGCGCAGGAAGAG
+
+--------------------------------------------------------------------------------
+Iteration 30/50 - Length 32 with Reference:
+Input Sequence A: TTGTCGGAGTTCGAGTCTAGAACCTATATAGG
+Generated Reference Sequence: CAGCTCGATCTCGGGGGGGACGGCAGGTTAGT
+Alignment Score: 2.5
+Avg Alignment Time: 0.015437777777777772 sec
+Avg Traceback Time: 2.111111111111111e-05 sec
+
+Alignment:
+CTATATAGG
+| || | ||
+CGATCTCGG
+
+--------------------------------------------------------------------------------
+Iteration 30/50 - Length 32 with Reference:
+Input Sequence A: TTGTCGGAGTTCGAGTCTAGAACCTATATAGG
+Generated Reference Sequence: ACGAGTGACATCGTCTGTTCGTGGGTTCCTGT
+Alignment Score: 2.56
+Avg Alignment Time: 0.015606666666666663 sec
+Avg Traceback Time: 2.111111111111111e-05 sec
+
+Alignment:
+GTTCGAGTCT
+||||| |  |
+GTTCGTGGGT
+
+--------------------------------------------------------------------------------
+Iteration 40/50 - Length 32 with Reference:
+Input Sequence A: TCGGCTTAACCTCCCAGAGGCTTCTGATTCGG
+Generated Reference Sequence: CCTTTTCTTTGGCGCAGGAAGAGAAGACATGT
+Alignment Score: 2.1
+Avg Alignment Time: 0.015292499999999994 sec
+Avg Traceback Time: 2.4166666666666663e-05 sec
+
+Alignment:
+CTTCTGATTCGG
+| | |  || ||
+CCTTTTCTTTGG
+
+--------------------------------------------------------------------------------
+Iteration 40/50 - Length 32 with Reference:
+Input Sequence A: TCGGCTTAACCTCCCAGAGGCTTCTGATTCGG
+Generated Reference Sequence: CAGCTCGATCTCGGGGGGGACGGCAGGTTAGT
+Alignment Score: 2.91
+Avg Alignment Time: 0.015418333333333327 sec
+Avg Traceback Time: 2.4166666666666663e-05 sec
+
+Alignment:
+CGGCTTA
+| | |||
+CAGGTTA
+
+--------------------------------------------------------------------------------
+Iteration 40/50 - Length 32 with Reference:
+Input Sequence A: TCGGCTTAACCTCCCAGAGGCTTCTGATTCGG
+Generated Reference Sequence: ACGAGTGACATCGTCTGTTCGTGGGTTCCTGT
+Alignment Score: 2.91
+Avg Alignment Time: 0.01554416666666666 sec
+Avg Traceback Time: 2.4166666666666663e-05 sec
+
+Alignment:
+GCTTAACCTCCCAGAGGCTTCTGATTCGG
+|  | || ||       | |  | | | |
+GAGTGACATCGTCTGTTCGTGGGTTCCTG
+
+--------------------------------------------------------------------------------
+Iteration 50/50 - Length 32 with Reference:
+Input Sequence A: GGGGACCCATGCCCTACTCACGTATTAACGAG
+Generated Reference Sequence: CCTTTTCTTTGGCGCAGGAAGAGAAGACATGT
+Alignment Score: 3.05
+Avg Alignment Time: 0.015315999999999995 sec
+Avg Traceback Time: 1.9333333333333333e-05 sec
+
+Alignment:
+GACCCATGCCCTACTCACGTAT
+| | || |        || | |
+GGCGCAGGAAGAGAAGACATGT
+
+--------------------------------------------------------------------------------
+Iteration 50/50 - Length 32 with Reference:
+Input Sequence A: GGGGACCCATGCCCTACTCACGTATTAACGAG
+Generated Reference Sequence: CAGCTCGATCTCGGGGGGGACGGCAGGTTAGT
+Alignment Score: 3.12
+Avg Alignment Time: 0.015419999999999994 sec
+Avg Traceback Time: 1.9333333333333333e-05 sec
+
+Alignment:
+GGGGAC
+||||||
+GGGGAC
+
+--------------------------------------------------------------------------------
+Iteration 50/50 - Length 32 with Reference:
+Input Sequence A: GGGGACCCATGCCCTACTCACGTATTAACGAG
+Generated Reference Sequence: ACGAGTGACATCGTCTGTTCGTGGGTTCCTGT
+Alignment Score: 3.68
+Avg Alignment Time: 0.015523333333333328 sec
+Avg Traceback Time: 1.9333333333333333e-05 sec
+
+Alignment:
+GGGACCCATGCCCTACTCACGTATTAACG
+| |   |||   ||  ||  |  ||   |
+GAGTGACATCGTCTGTTCGTGGGTTCCTG
+
+--------------------------------------------------------------------------------
+[STAT] For length 32, Total Alignment Time: 2.328499999999999, Avg Alignment Time: 0.015523333333333328
+[STAT] For length 32, Total Traceback Time: 0.0029, Avg Traceback Time: 1.9333333333333333e-05
+Iteration 10/50 - Length 64 with Reference:
+Input Sequence A: ACGCTTTGACTAGTAGATAGCTCGGAGAAAACGAGTGACATGTATGCCTTTTTAGACAGGGCGT
+Generated Reference Sequence: TACATCCGGATTGGCGCGTCGCAGTCAACAATACGGTAGCATCTAAACTGGGACTGCGGAGGTA
+Alignment Score: 3.72
+Avg Alignment Time: 0.056493333333333326 sec
+Avg Traceback Time: 0.0 sec
+
+Alignment:
+GCTCGGAGAAAACGAGTGACATGTATGC
+||    |  ||    ||  ||| ||  |
+GCAGTCAACAATACGGTAGCATCTAAAC
+
+--------------------------------------------------------------------------------
+Iteration 10/50 - Length 64 with Reference:
+Input Sequence A: ACGCTTTGACTAGTAGATAGCTCGGAGAAAACGAGTGACATGTATGCCTTTTTAGACAGGGCGT
+Generated Reference Sequence: AAAACCGCAGGAATGCCATGCAGATCTGCCGAGGCTGAAAAGGCTAGTCTCGTAAAGCGTGACA
+Alignment Score: 4.97
+Avg Alignment Time: 0.058476666666666656 sec
+Avg Traceback Time: 0.0 sec
+
+Alignment:
+CATGTATGCCTTTTTAGACAGGGC
+||  | ||||      || | |||
+CAGATCTGCCGAGGCTGAAAAGGC
+
+--------------------------------------------------------------------------------
+Iteration 10/50 - Length 64 with Reference:
+Input Sequence A: ACGCTTTGACTAGTAGATAGCTCGGAGAAAACGAGTGACATGTATGCCTTTTTAGACAGGGCGT
+Generated Reference Sequence: GTATAATCCTGAAAAGTAGCGCCACGTCGGATAGGTATCCCTATAGCTTGGGACCACGCAGTCT
+Alignment Score: 4.36
+Avg Alignment Time: 0.060413333333333326 sec
+Avg Traceback Time: 0.0 sec
+
+Alignment:
+ACGAGTGACATGTATGCCTTT
+|||   || | |||| ||| |
+ACGTCGGATAGGTATCCCTAT
+
+--------------------------------------------------------------------------------
+Iteration 20/50 - Length 64 with Reference:
+Input Sequence A: GCTGTGGAGTTAGCAGAGACCTGCAGGTGTTTGGTCGTTCTTTACACAGTCCACAGGCTTTCAC
+Generated Reference Sequence: TACATCCGGATTGGCGCGTCGCAGTCAACAATACGGTAGCATCTAAACTGGGACTGCGGAGGTA
+Alignment Score: 3.94
+Avg Alignment Time: 0.06115833333333332 sec
+Avg Traceback Time: 1.5e-05 sec
+
+Alignment:
+GACCTGCAGGTGT
+|  |||| |  ||
+GGACTGCGGAGGT
+
+--------------------------------------------------------------------------------
+Iteration 20/50 - Length 64 with Reference:
+Input Sequence A: GCTGTGGAGTTAGCAGAGACCTGCAGGTGTTTGGTCGTTCTTTACACAGTCCACAGGCTTTCAC
+Generated Reference Sequence: AAAACCGCAGGAATGCCATGCAGATCTGCCGAGGCTGAAAAGGCTAGTCTCGTAAAGCGTGACA
+Alignment Score: 5.12
+Avg Alignment Time: 0.06219333333333332 sec
+Avg Traceback Time: 1.5e-05 sec
+
+Alignment:
+AGACCTGCAGGTGTT
+||| |||| |  | |
+AGATCTGCCGAGGCT
+
+--------------------------------------------------------------------------------
+Iteration 20/50 - Length 64 with Reference:
+Input Sequence A: GCTGTGGAGTTAGCAGAGACCTGCAGGTGTTTGGTCGTTCTTTACACAGTCCACAGGCTTTCAC
+Generated Reference Sequence: GTATAATCCTGAAAAGTAGCGCCACGTCGGATAGGTATCCCTATAGCTTGGGACCACGCAGTCT
+Alignment Score: 3.8
+Avg Alignment Time: 0.06318666666666665 sec
+Avg Traceback Time: 3.1666666666666666e-05 sec
+
+Alignment:
+AGACCTGCAGGTGTTTGGTCGTTCTTTACACAGTCCACAGGC
+||  |  |    | | |||    || ||    |    || ||
+AGCGCCACGTCGGATAGGTATCCCTATAGCTTGGGACCACGC
+
+--------------------------------------------------------------------------------
+Iteration 30/50 - Length 64 with Reference:
+Input Sequence A: TCCGATCGGGGCTCTAGGAACTATCTCGAAGAAATGGGTGCCACACTGGCTAGGGACATCGTTA
+Generated Reference Sequence: TACATCCGGATTGGCGCGTCGCAGTCAACAATACGGTAGCATCTAAACTGGGACTGCGGAGGTA
+Alignment Score: 4.87
+Avg Alignment Time: 0.06268777777777773 sec
+Avg Traceback Time: 2.111111111111111e-05 sec
+
+Alignment:
+CGGGGCTCTAGGAACTATCTCGAAGAAATGGGTGCCACACTGGCTAGGGA
+|| | | |    ||| ||   | || |           ||||   ||| |
+CGCGTCGCAGTCAACAATACGGTAGCATCTAAACTGGGACTGCGGAGGTA
+
+--------------------------------------------------------------------------------
+Iteration 30/50 - Length 64 with Reference:
+Input Sequence A: TCCGATCGGGGCTCTAGGAACTATCTCGAAGAAATGGGTGCCACACTGGCTAGGGACATCGTTA
+Generated Reference Sequence: AAAACCGCAGGAATGCCATGCAGATCTGCCGAGGCTGAAAAGGCTAGTCTCGTAAAGCGTGACA
+Alignment Score: 4.64
+Avg Alignment Time: 0.06347111111111106 sec
+Avg Traceback Time: 2.111111111111111e-05 sec
+
+Alignment:
+CTCTAGGAACTATCTCGAAGAAATGGGTGCCACACTGGCTAGGGACAT
+| |  | |       |  |      |  ||   |  ||||||   | |
+CGCAGGAATGCCATGCAGATCTGCCGAGGCTGAAAAGGCTAGTCTCGT
+
+--------------------------------------------------------------------------------
+Iteration 30/50 - Length 64 with Reference:
+Input Sequence A: TCCGATCGGGGCTCTAGGAACTATCTCGAAGAAATGGGTGCCACACTGGCTAGGGACATCGTTA
+Generated Reference Sequence: GTATAATCCTGAAAAGTAGCGCCACGTCGGATAGGTATCCCTATAGCTTGGGACCACGCAGTCT
+Alignment Score: 6.12
+Avg Alignment Time: 0.0642744444444444 sec
+Avg Traceback Time: 2.111111111111111e-05 sec
+
+Alignment:
+GGTGCCACACTGGCTAGGGACATCG
+|||  | |  | ||| |||||  ||
+GGTATCCCTATAGCTTGGGACCACG
+
+--------------------------------------------------------------------------------
+Iteration 40/50 - Length 64 with Reference:
+Input Sequence A: GTTGTCGGAATTTGGACAGTCCAGGTAGGGGCACAAGATGACTAATGGGCTGGCGACTATAGTA
+Generated Reference Sequence: TACATCCGGATTGGCGCGTCGCAGTCAACAATACGGTAGCATCTAAACTGGGACTGCGGAGGTA
+Alignment Score: 3.71
+Avg Alignment Time: 0.0635133333333333 sec
+Avg Traceback Time: 1.5833333333333333e-05 sec
+
+Alignment:
+TCGGAATTTGGACAGTCCAGGT
+||  || | |||| |   ||||
+TCTAAACTGGGACTGCGGAGGT
+
+--------------------------------------------------------------------------------
+Iteration 40/50 - Length 64 with Reference:
+Input Sequence A: GTTGTCGGAATTTGGACAGTCCAGGTAGGGGCACAAGATGACTAATGGGCTGGCGACTATAGTA
+Generated Reference Sequence: AAAACCGCAGGAATGCCATGCAGATCTGCCGAGGCTGAAAAGGCTAGTCTCGTAAAGCGTGACA
+Alignment Score: 3.88
+Avg Alignment Time: 0.06407166666666664 sec
+Avg Traceback Time: 1.5833333333333333e-05 sec
+
+Alignment:
+TTGTCGGAATTTGGACAGTCCAGGTAGG
+|   | ||   || | || | ||    |
+TCTGCCGAGGCTGAAAAGGCTAGTCTCG
+
+--------------------------------------------------------------------------------
+Iteration 40/50 - Length 64 with Reference:
+Input Sequence A: GTTGTCGGAATTTGGACAGTCCAGGTAGGGGCACAAGATGACTAATGGGCTGGCGACTATAGTA
+Generated Reference Sequence: GTATAATCCTGAAAAGTAGCGCCACGTCGGATAGGTATCCCTATAGCTTGGGACCACGCAGTCT
+Alignment Score: 4.02
+Avg Alignment Time: 0.06461333333333331 sec
+Avg Traceback Time: 1.5833333333333333e-05 sec
+
+Alignment:
+TGGACAGTCCAGGTAGGGGCACAAGATGACTAATGGGCTGGCGACTA
+|| | |||   |  | |      || |  |      ||| | ||| |
+TGAAAAGTAGCGCCACGTCGGATAGGTATCCCTATAGCTTGGGACCA
+
+--------------------------------------------------------------------------------
+Iteration 50/50 - Length 64 with Reference:
+Input Sequence A: TAGCTACAAACACCATGCGCCGCATACTCAGTACTCTGACCCGAGAGTTCGGGGAAATCAACTC
+Generated Reference Sequence: TACATCCGGATTGGCGCGTCGCAGTCAACAATACGGTAGCATCTAAACTGGGACTGCGGAGGTA
+Alignment Score: 5.4
+Avg Alignment Time: 0.06337466666666663 sec
+Avg Traceback Time: 2.6e-05 sec
+
+Alignment:
+TACTCAGTACTCTGACCCGAGAGTTCGGGGAAA
+|||       ||| | | | || | ||| |  |
+TACGGTAGCATCTAAACTGGGACTGCGGAGGTA
+
+--------------------------------------------------------------------------------
+Iteration 50/50 - Length 64 with Reference:
+Input Sequence A: TAGCTACAAACACCATGCGCCGCATACTCAGTACTCTGACCCGAGAGTTCGGGGAAATCAACTC
+Generated Reference Sequence: AAAACCGCAGGAATGCCATGCAGATCTGCCGAGGCTGAAAAGGCTAGTCTCGTAAAGCGTGACA
+Alignment Score: 3.1
+Avg Alignment Time: 0.06380733333333331 sec
+Avg Traceback Time: 2.6e-05 sec
+
+Alignment:
+CTCAGTACTCTGACCCGAGAGTTCGGGGAAATCAA
+| ||| | |   |  |     | | | |     ||
+CGCAGGAATGCCATGCAGATCTGCCGAGGCTGAAA
+
+--------------------------------------------------------------------------------
+Iteration 50/50 - Length 64 with Reference:
+Input Sequence A: TAGCTACAAACACCATGCGCCGCATACTCAGTACTCTGACCCGAGAGTTCGGGGAAATCAACTC
+Generated Reference Sequence: GTATAATCCTGAAAAGTAGCGCCACGTCGGATAGGTATCCCTATAGCTTGGGACCACGCAGTCT
+Alignment Score: 4.77
+Avg Alignment Time: 0.06422199999999997 sec
+Avg Traceback Time: 2.6e-05 sec
+
+Alignment:
+GCTACAAACACCATGCGCCGCATACTCAGTACTCT
+| ||   |  ||    ||     ||   | | |||
+GATAGGTATCCCTATAGCTTGGGACCACGCAGTCT
+
+--------------------------------------------------------------------------------
+[STAT] For length 64, Total Alignment Time: 9.633299999999997, Avg Alignment Time: 0.06422199999999997
+[STAT] For length 64, Total Traceback Time: 0.0039, Avg Traceback Time: 2.6e-05
