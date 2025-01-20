@@ -1,0 +1,391 @@
+Iteration 10/70 - Length 256:
+Alignment Time: 0.028610 sec
+Traceback Time: 0.000000 sec
+Score: 7.460000
+
+Alignment:
+GGAAAAAAATTTTGATTTTCGCCTGGAACAAGTGTAAACATT-AGATACAAAGCGCTTTCGTTGTCCAGAGTAGCGAGCGGAATAATAGGGGTCA
+| ||||  ||| | |   | | |  |   |     |  || | | || |      | |||||      | ||  || |   |   |   | |  |
+GCAAAAGTATTCTTAGGCTAGTCCAGTTAAGCAACATCCAGTCATATCCGCCAAACGTTCGTAACAGCGCGTCACGGGACCAGAGAGCAGTGCGA
+
+--------------------------------------------------------------------------------
+Iteration 10/70 - Length 256:
+Alignment Time: 0.028362 sec
+Traceback Time: 0.001005 sec
+Score: 9.570000
+
+Alignment:
+ACCCCATAACCCGCGCCGTTGATTGGGGGGACGGACCTGAGCCCGAGCTAT-AACATCGCTTTCTAGAGTCCCAG-TTGCAGTGCGAACGATCGAGCAGGTTCTGTAGGCTAGGAAAAAAATTTTGATTTTCGCCTGGAACAAGTGTAAACATTAGATACAAAGCGCTTTCGTTGTCCAGAGTAGCGAGCGGAATAATAGGGGTCAATAACCC
+||||||    |  |     |   | | | ||    ||  |  |     ||| | ||||      ||   ||  ||  ||| |    | |  |     |  ||| ||| |   | |  | || || | |          ||| |        | |       |   |||    | || |       | ||  |||     ||     || | ||
+ACCCCAGGCTCACCAGGACTAGATAGAGTGAAACCCCGTATTCTTGTATATCATCATCATGACTTAAGCTCGGAGAGTGCTGGAACACCTGTTCGTAATCTTCGGTATGACCGCATGATAACTTCGTTCCGGATGATAAACTAACTCTTCGACTGACGGATAGAAGCTGCTCTCGTGCTTGAAGTC-AGAAGAAGGTGTGGCCCGGATGAGCC
+
+--------------------------------------------------------------------------------
+Iteration 10/70 - Length 256:
+Alignment Time: 0.029000 sec
+Traceback Time: 0.000000 sec
+Score: 9.810000
+
+Alignment:
+CCGAGCTATAACATCGCTTTCTAGAGTCCCAGTTGC-AG-TGCGAACGATCGAGCAGGTTCTGTAGGCTAGGAAAAAAATT-TTGATTTTCGCCTGGAACAAGTGTAAACATT
+|| | ||      ||  |    |  || | |||| | || |||  ||    |      |  |  ||| ||| |   | ||| ||     | ||    | ||  ||    |  |
+CCCAACTTGTGGCTCCTTCGAAACTGTTCGAGTTACAAGATGCCTACTCCGGCAGTCCTCATAGAGGGTAGAAGTTAGATTATTTCCACTGGCTGAAAGCACATGCCCGCCGT
+
+--------------------------------------------------------------------------------
+Iteration 10/70 - Length 256:
+Alignment Time: 0.029085 sec
+Traceback Time: 0.000000 sec
+Score: 9.980000
+
+Alignment:
+CATCGCTTTCTAGA-GTCCCAGTTGCAGTGCGAACGATCGAGCAGGTTCTGTAGGCTAG-GAAAA-AAATTTTGATTTTCGCCTGGAACA-AGTGTAAACATTAGATACAAAGCGCTTTCGTTGTCCAGAGTAGCGAGCGG
+|||||   | |||| || |  |   ||        ||| |   | | | ||| ||| || |  |   | |  | ||  ||  |||    |  | | | |   ||||  | | | || ||   | || ||  ||   | |||
+CATCGACATTTAGAGGTTCTCGAACCATGCACCTGGATGGCCAAAGATATGTTGGCGAGTGTGACGTACTGGTTATCCTCTTCTGCCTAACCGAGGAGAGCCTAGAAGCGAGGGGCGTTACCTTTCTAGTATATTAACCGG
+
+--------------------------------------------------------------------------------
+Iteration 10/70 - Length 256:
+Alignment Time: 0.029560 sec
+Traceback Time: 0.000000 sec
+Score: 8.140000
+
+Alignment:
+CGCGCCGTTGATTGGGGGGACGGACCTGAGCCCGAGC
+||||||  ||| |   || |   ||  ||| | |  |
+CGCGCCCGTGAGTTATGGAAGTAACACGAGGCTGTAC
+
+--------------------------------------------------------------------------------
+Iteration 20/70 - Length 256:
+Alignment Time: 0.028581 sec
+Traceback Time: 0.000000 sec
+Score: 9.330000
+
+Alignment:
+ATCGCAGAAAATTTCCGCGACGCCAGCCCCCTAGTGTACGGCACAGCCTTCGAGTGGCCGGCCGGCTATCCAGTAGAAAGCTCAACGTTTGATTGTGGTGAACGCATCCCAGCGAGGTCAAAGTGCCGAGCTTTTGCTCATGTTGGGCTGCG
+|| ||  |||| |      | || || ||  |   | |     ||| | |                || |     |  |    | |        |||  ||  | |  ||  |  |  |    ||||   | | | | ||  |||  |  ||
+ATAGCGCAAAAGTATTCTTAGGCTAGTCCAGTTAAGCAACATCCAGTCATATCCGCCAAACGTTCGTAACAGCGCGTCACGGGACCAGAGAGCAGTG-CGACTGTAAGCCTCC-CGTCCTTCTTGCCTCTCGTCTACACAATTTGCCCGCCG
+
+--------------------------------------------------------------------------------
+Iteration 20/70 - Length 256:
+Alignment Time: 0.028553 sec
+Traceback Time: 0.000000 sec
+Score: 8.260000
+
+Alignment:
+CTAAATCGCTGACACCTGGAGATCGCAGAAAATTTCCGCGACGCCAGCCCCCTAGTGTACGGCACAGCCTTCGAGTGGCCGGCCGGCTATCCAGTAGAAAGCTCAACGTTTGATTG
+| ||   | | ||  | |  |||||| |   ||  ||  | | |       ||||     |  | | ||                   |||  |    ||||||   |  || | |
+CAAACATGGTTACTGCCGTTGATCGCGGGCGATACCCCAGGCTCACCAGGACTAGATAGAGTGAAACCCCGTATTCTTGTATATCATCATCATGACTTAAGCTCGGAGAGTGCTGG
+
+--------------------------------------------------------------------------------
+Iteration 20/70 - Length 256:
+Alignment Time: 0.028553 sec
+Traceback Time: 0.000000 sec
+Score: 8.350000
+
+Alignment:
+TGCTAGAAATCGTCGAGGTAGTCTACTATCACTAAATCGCTGACACCTGGAGATCGCAGAAAATTTCCGCGACGCCAGCCCCCTAGTGTACGGCACAGCCTTCGAGTGGCCGGCCGGCTATCCAGTAGAAAGCTCAACGTTTGATTGTGGTGAACGCATCCCAGCGAGGT
+|| | |      ||   ||  |       |   | | |  |  || ||| |  |      || ||   ||  |  |    |  |          | |  | |     ||| | ||   ||    ||||||     |   |||      | |||| |||      ||  ||
+TGTTGGTCGAGTTCCCTGTGATTCCTCGGCTACAGAACCTTTTCAGCTGCAT-TTATCCCAACTTGTGGCTCCTTCGAAACTGTTCGAGTTACAAGATGCCTACTCCGGCAGTCCTCATAGAGGGTAGAAGTTAGATTATTTCCACTGGCTGAAAGCACATGCCCGCCGT
+
+--------------------------------------------------------------------------------
+Iteration 20/70 - Length 256:
+Alignment Time: 0.029027 sec
+Traceback Time: 0.000000 sec
+Score: 7.630000
+
+Alignment:
+TTAAATGTATAAGACGTCCTCCATGGACCTGTGCTAGAAATCGTCGAGGTAGTCTACTATCACTAAATCGCTGACACCTGGAGA
+|  |  ||   |  ||| ||  |  | ||  ||   | |||| |   | |    |      |    | |||    || |  |||
+TATAGAGTCCGATGCGTGCTA-AGTGTCCGCTGAACGCAATCATGCTGCTGCGGTCGGGGTAGATCAGCGCATCGACATTTAGA
+
+--------------------------------------------------------------------------------
+Iteration 20/70 - Length 256:
+Alignment Time: 0.029631 sec
+Traceback Time: 0.000000 sec
+Score: 9.240000
+
+Alignment:
+TTAAATGTATAAGACGTCCTCCATGGACCTGTGCTAGAAATCGTCGAGGTAGTCTACTATCACTAAATCGCTGACACCTGGAGATCGCAGAAAATTTCCGCGAC-GCCAGCCCCCTAGTGTACGG
+||| |||  | | ||||||  || |   ||| ||       | |      ||| |  ||    ||   |   |   ||  ||| |    |||      || | | |   | |    |||  | ||
+TTAGATGCCTGATACGTCCGACAGGCCTCTGAGCGGATCTGCCTTAGTCGAGTTTCGTACGGGTAGGACAGCGCGCCCGTGAG-TTATGGAAGTAACACGAGGCTGTACGACTGGGAGTACATGG
+
+--------------------------------------------------------------------------------
+Iteration 30/70 - Length 256:
+Alignment Time: 0.029519 sec
+Traceback Time: 0.000000 sec
+Score: 10.870000
+
+Alignment:
+GTAACTCTCACTGAGCGTGTTGGGCAGATTTTCAAAGGAAATTTTAGTTA-CCGAATTCAGTGACAATCGGTAGATTCTTTATGATCTTCGCCAACAACACTGTGATATCGACTTAAGAATACGCGGGTTGGTGTCTGGCCCTCAGGGAAATACGTC-CCATGACTTCCATGTCCTCAACCCAATCGCGGTA
+|  ||   ||  |     | |   || |     |||| |   ||  | ||  | | || ||  |||  | ||    ||      |  ||||  |       |       | |   |  | | ||   ||  |  ||  | |||    |     ||||  ||  | || |  | | |     |  |||   ||
+GCGACCTCCATCGTCGCAGGTTACCATAGCGCAAAAGTATTCTTAGGCTAGTCCAGTTAAGCAACATCCAGTCATATCCGCCAAACGTTCGTAACAGCGCGTCACGGGACCAGAGAGCAGTGCGACTGTAAGCCTCCCGTCCTTCTTGCCTCTCGTCTACACAATTTGCCCGCCGTTCTAGCTGTCGTTCTA
+
+--------------------------------------------------------------------------------
+Iteration 30/70 - Length 256:
+Alignment Time: 0.028999 sec
+Traceback Time: 0.000000 sec
+Score: 7.940000
+
+Alignment:
+AATTCAGTGACAATCGGTAGATTCTTTATGATCTTCGCCAACAACACTGTGATATCGACTTAAGAATACGCGGGTTGG
+||  | ||     |   ||   || | ||||  |  ||    |      ||  |      |  | |  |   |||  |
+AACCCCGTATTCTTGTATATCATCATCATGACTTAAGCTCGGAGAGTGCTGGAACACCTGTTCGTAATCTTCGGTATG
+
+--------------------------------------------------------------------------------
+Iteration 30/70 - Length 256:
+Alignment Time: 0.030007 sec
+Traceback Time: 0.000000 sec
+Score: 10.900000
+
+Alignment:
+CAGATTTTCAAAGGAAATTTTAGTTACCGAATTCAGTGAC-AATCGG-TAGATTCTTTATGATCTTCGCCAACAACACTGTGATATCGACTTAAGAATACGCGGGTTGGTGTCTGGCCCTCAGGGAAATACGTCCCATGACTTCCATGTCCTCAACCCAATCGCGGTACTGATTCCACTTCCCCCTGGTC
+| | |  || |      | | | |   ||  | |||   |   || | |  |||  |    |  |  | |  |  |       | |||| |||  |     |   |  |    |   | |   ||  | | ||   || | |||||    || ||  ||   ||    |   | || ||||  |  ||||
+CTGTTGGTCGAGTTCCCTGTGATTCCTCGGCTACAGAACCTTTTCAGCTGCATTTATCCCAACTTGTGGCTCCTTCGAAACTGT-TCGAGTTACAAGATGCCTACTCCGGCAGTCCTCATAGAGGGTAGAAGTTAGATTATTTCCACTGGCTGAAAGCACATGCCCGCCGTTTGCCCCTTCGTCTGGGTC
+
+--------------------------------------------------------------------------------
+Iteration 30/70 - Length 256:
+Alignment Time: 0.029002 sec
+Traceback Time: 0.000000 sec
+Score: 8.210000
+
+Alignment:
+CTGAGCGTGTTGGGCAGATTTTCAAAGGAAATTTTAGTTACCGAATTCAGTGACAATCGGTAGATTCTTTATGATCTTCGCCAACAACACTGTGATATCGACTTAAGAATACGCGGGTTGGTGTC
+|   ||||| |  |       | || | ||   |       ||      ||        | |    | ||  ||  ||| | ||| |  |      || | |  |   ||    | |   ||| |
+CGATGCGTGCTAAGTGTCCGCTGAACGCAATCATGCTGCTGCGGTCGGGGTAGATCAGCGCATCGACATTTAGAGGTTCTCGAACCATGCACCTGGATGGCCAAAGATATGTTGGCGAGTGTGAC
+
+--------------------------------------------------------------------------------
+Iteration 30/70 - Length 256:
+Alignment Time: 0.029519 sec
+Traceback Time: 0.000000 sec
+Score: 7.080000
+
+Alignment:
+ATCGACTTAAGAATACGCGGGTTGGTGTCTGGCCCTCAGGGAAATACGTCCCATGACTTCCATGTCCTCAACCCAATCGCGGTACTGATT-CCACTTCCCCCTGGTCCCGAGGGATGG
+|   |||||||  |  | ||  |      | |    | |  |  | || |      ||     |  ||   |  | ||| | | |  |     |   |  |  |  |  |||  ||||
+AAATACTTAAGCCTCAGAGGTATCAGACTTAGATGCCTGATACGTCCGACAGGCCTCTGAGCGGATCT-GCCTTAGTCGAGTTTCGTACGGGTAGGACAGCGCGCCCGTGAGTTATGG
+
+--------------------------------------------------------------------------------
+Iteration 40/70 - Length 256:
+Alignment Time: 0.030111 sec
+Traceback Time: 0.000000 sec
+Score: 8.490000
+
+Alignment:
+CCGCGAGACAGTGGTCTCGGGCCGCAGGTCGCCATCAGAACACCGCGACTCAGTAAGAACTCGCGCACCTGCTTGTTCCCGGTCGATTGCTCCAG
+|||| | ||  | ||  | |  ||      | |   ||| ||  ||||||         |   |   | ||| | |   |     | |   || |
+CCGCCAAACGTTCGTAACAGCGCGTCACGGGACCAGAGAGCAGTGCGACTGTAAGCCTCCCGTCCTTCTTGCCTCTCGTCTACACAATTTGCCCG
+
+--------------------------------------------------------------------------------
+Iteration 40/70 - Length 256:
+Alignment Time: 0.029000 sec
+Traceback Time: 0.000000 sec
+Score: 9.100000
+
+Alignment:
+GACAGTGGTCTCGGGCCGCAGGTCGCCATCAGAACACCGCGACTCAGTAAGAACTCGCGCACCTGCTTGTTCCCGGTCGATTGCTCCAGTTAGCGTATTACTCGCCCGCTTACGGGAAA-CTGTCGCCTGGCCGATGCGGGAAGTAGTTCACG-TCGTCCAATGTCGGCGGGGCGACCTAACGTAATACACTGGGGTG
+| |  || || |||||   |   |    |||  |   |  ||   ||| | | | ||    | ||  | |   |  || ||  ||  || | |   | | || |  | | |    | || ||   |  || |||       |  | ||||  | |  |  | |  |     | |   |  |   ||    ||   |||
+GCCGTTGATCGCGGGCGATACCCCAGGCTCACCAGGACTAGATAGAGTGAAACCCCGTATTCTTGTATATCATCA-TC-ATGACTTAAGCTCGGAGAGTGCTGGAACACCTGTTCGTAATCTTCGGTATGACCGCATGATAACTTCGTTCCGGATGATAAACTAACTCTTCGACTGACGGATAGAAGCTGCTCTCGTG
+
+--------------------------------------------------------------------------------
+Iteration 40/70 - Length 256:
+Alignment Time: 0.029503 sec
+Traceback Time: 0.000000 sec
+Score: 10.420000
+
+Alignment:
+AGACAGTGGTCTCGGGCCGCAGGTCGCCATCAGAACACCGCGACTCAGTAAGAACTCGCGCACCTGCTTGTTCCCGGTCGATTGCTCCAGTTAGCGTATTACTCGCCCGCTTACGGGAAACTGTCGCCTGGCCGAT-GCGGGAAGTAGTTCACGT-CGTCCAATGTCGGCGGGGCGA-CCTAACGTAATACACTGGGGT
+|  || | |    |  | |  |||||   ||         |  |      |||||     || |||| | |  ||   |   ||   |  |        | |  |       | |   | ||   ||    |  || | ||| || ||||    |   |||| || | |   |   |  |   |    | | |    ||
+ACTCATTTGGTAAGTACTGTTGGTCGAGTTCCCTGTGATTCCTCGGCTACAGAACCTTTTCAGCTGCATTTATCCCAACTTGTGGCTCCTTCGAAACTGTTCGAGTTACAAGATGCCTA-CTCCGGCAGTCCTCATAGAGGGTAGAAGTTAGATTATTTCCACTGGCTGAAAGCACATGCCCGCCGTTTGCCCCTTCGT
+
+--------------------------------------------------------------------------------
+Iteration 40/70 - Length 256:
+Alignment Time: 0.028581 sec
+Traceback Time: 0.001000 sec
+Score: 8.190000
+
+Alignment:
+TCCCGGTCGATTGCTCCAGTTAGCGTATTACTCGCCCGCTTACGGGAAACTGTCGCCTGGCCGATGCGGGAAGTAGTTCACGTCGTCCAATGTCGGCGGGGCGACCTAACGTAATACACTGGGGTGAAATTGATAGATGGATGCCATTCTTACTATTCT
+|  | | | || |   | | | ||||  ||   | ||||| |  | || |   |  ||| | |  | || |  |    | | ||| |   |   ||       |||   |               || ||        |  || | | ||   ||| ||
+TATCTGACTATAGAGTCCGAT-GCGTGCTAAGTGTCCGCTGAACGCAATCATGCTGCTG-CGGTCGGGGTAGAT-CAGCGCATCGACATTTAGAGGTTCTCGAACCATGCACCTGGATGGCCAAAGATATGTTGGCGAGTGTGACGTACTGGTTATCCT
+
+--------------------------------------------------------------------------------
+Iteration 40/70 - Length 256:
+Alignment Time: 0.030110 sec
+Traceback Time: 0.000000 sec
+Score: 7.160000
+
+Alignment:
+AGTTCACGTCGTCCAATGTCGGCGGGGCGACCTAACGTAATACACTGGGGTGAAATTGATAGATGGATG
+|  ||   |    || | || |            || |||  | | | |||   |    ||||||  ||
+ACGTCCGTTACCACATTATCTGTACCCATGAAATACTTAAGCCTCAGAGGTATCAGACTTAGATGCCTG
+
+--------------------------------------------------------------------------------
+Iteration 50/70 - Length 256:
+Alignment Time: 0.029543 sec
+Traceback Time: 0.000000 sec
+Score: 7.240000
+
+Alignment:
+CGCCGACCTTCAGTCAAACGTCGACAGGCTAATTAGAGTTTCGTATCACGAATCTACATCTGCTACTGTAACACAAGGAGGCTGGAACAGAATCTAACATAAAAGGCGGCCCGGGGCTTCCAGACAGCTCCGATGTTTAACATGGGACTTTAGCTTTGAAGAGTCACAGCTTGCAAGA
+|| | | | | ||   |  ||   |        | | |       |   ||| |   |   || ||    |     | ||| |   | ||   | ||  ||      |||  |     |  ||  |  |||  |  |   |     || || |       | ||||| |      |||
+CGACTAACCTTAGGTGAGAGTATCCGCCAATCATGGGGAGATTGGTGCGGAAGCCTAAAGGGCGACCTCCATCGTCGCAGGTTACCATAGC-GCAAAAGTATTCTTAGGCTAGTCCAGTTAAGCAACATCCAGTCATATCCGCCAAACGTTCGTAACAGCGCGTCACGGGACCAGAGA
+
+--------------------------------------------------------------------------------
+Iteration 50/70 - Length 256:
+Alignment Time: 0.028553 sec
+Traceback Time: 0.000000 sec
+Score: 8.540000
+
+Alignment:
+CACGCGCCGACCTTCAGTCAAACGTCGACAGGCTAATTAGAGTTTCGTATCACGAATCTACATCTGCTACTGTAACACAAGGAGGCTGGAACAGAATCTAACATAAAAGGCGGCCCGG
+|||  |       ||      | | |  || | ||| |   ||| || || |  || |||  ||| | |||| |     || ||       |    |  ||   | |||  ||   ||
+CACCTGTTCGTAATCTTCGGTATGACCGCATGATAACTT-CGTTCCGGATGAT-AAACTAACTCTTCGACTG-ACGGATAGAAGCTGCTCTCGTGCTTGAAGTCAGAAGAAGGTGTGG
+
+--------------------------------------------------------------------------------
+Iteration 50/70 - Length 256:
+Alignment Time: 0.029581 sec
+Traceback Time: 0.000000 sec
+Score: 8.190000
+
+Alignment:
+TCACGCGCCGACCTTCAGTCAAACGTCGACAGGCTAATTAGAGTTTCGTATCACGAATCTACATCTGCTACTGTAACACAAGGAGGCTGGAACAGAATCTAACATAAAAGGCGGCCC
+|  ||  | |||  |||    |      ||    |   || |||   ||    ||| |   |      | ||     |||       |  | | | || || |  ||   | ||| |
+TATCGTTCTGACGATCATGATAGGACGTACTCATTTGGTA-AGTACTGTTGGTCGAGTTCCCTGTGATTCCTCGGCTACAGAACCTTTTCAGCTGCATTTATCCCAACTTGTGGCTC
+
+--------------------------------------------------------------------------------
+Iteration 50/70 - Length 256:
+Alignment Time: 0.028592 sec
+Traceback Time: 0.000999 sec
+Score: 7.260000
+
+Alignment:
+TTATGACGAACTTATGAGCTCACGCGCCGACCTT-CAGTCAAACGTCGACAGGCTAATTAGAGTTTCGTATCACGAATCTACATCTGCTACTGTAACACAAGGAGGCTGGAACAGAATCTAACATAAAAGGCGGCCCGGGGCTTCCAGACAGCTCCGATGTTTAACATGGGACTTTAGCTTTGAAGAGTCACAGCTTGCAAGATGGATGAATTTCTACCTTCCAGACAGGTATATAACACGG
+|   ||   ||   ||  |  ||   | |||  |  ||||  | |    |    |       |      |||| |   || |    |     |     |     | |    | ||  |||   |  |    |      || |    | |      ||| || | || |     ||   || |   |  | || |     |   | || |          | ||   |  |||||| |  |||
+TCTCGAGCTACGCCTGGTCGAACTATCTGACTATAGAGTCCGATGCGTGCTAAGTGTCCGCTGAACGCAATCATGCTGCTGCGGTCGGGGTAGATCAGCGCATCGACATTTAGAGGTTCTCGAACCATGCACCTGGATGGCCAAAGATATGTTGGCGA-GTGTGACGTACTGGTTATCCTCTTCTGCCTAACCGAGGAGAGCCTAGAAGCGAGGGGCGTTACCTTTCTAGTATATTAACCGG
+
+--------------------------------------------------------------------------------
+Iteration 50/70 - Length 256:
+Alignment Time: 0.029000 sec
+Traceback Time: 0.000000 sec
+Score: 6.770000
+
+Alignment:
+GCTGGAACAGAATCTAACATAAAAGGCGGCCCGGGGCTTCCAGACAGCTCCGATGTTTAACATGGGACTTTAGCTTTGAAGAGTCACAGCTTGCAAGATGGATGAATTTCTACCTTCCAGACAGGTATATAACACGG
+|  | | |||| |   |      |  || ||    |    | ||  |   |    ||   |  |   | |  |  | | | ||      | ||    ||||| | |   | |   |  |     |    || || ||
+GAGGTATCAGACTTAGATGCCTGATACGTCCGACAGGCCTCTGAGCGGATCTGCCTTAGTCGAGTTTCGTACGGGTAGGACAGCGCGCCCGTGAGTTATGGAAGTAACACGAGGCTGTACGACTGGGAGTA-CATGG
+
+--------------------------------------------------------------------------------
+Iteration 60/70 - Length 256:
+Alignment Time: 0.029107 sec
+Traceback Time: 0.000000 sec
+Score: 9.390000
+
+Alignment:
+CCGACCTGTGATGTGGCGGAAGAAGAATAGGAAGTACAAACTTAGAGTCGTT-TCACCTACCTGACTAATGCAGTAAGGCGCTTGTATATCGGGACCTTTGAAGCATGCCTCGGCCGTCATTTAAACATCCATATGTACCTTCTTAAAGGCATCACGGTGTG
+||  | |   | ||  |   ||   || || |     |  ||        |   || |  || | |  || |   ||  || | |||     |   |   | | ||     | |      | ||| | |||     | | | | |   | |  |||  | ||
+CCATCGTCGCAGGTTACCATAGCGCAAAAGTATTCTTAGGCTAGTCCAGTTAAGCAACATCCAGTCATATCCGCCAA-ACGTTCGTAACAGCGCGTCACGGGACCAGAGAGCAGTGCGACTGTAAGCCTCCCGTCCTTCTTGCCTCTCGTCTACACAATTTG
+
+--------------------------------------------------------------------------------
+Iteration 60/70 - Length 256:
+Alignment Time: 0.029027 sec
+Traceback Time: 0.000000 sec
+Score: 8.930000
+
+Alignment:
+CTTGTATATCGGGACCTTTGAAGCATGCCTCGGCCGTCATTTAAACATCCATATGT-ACCTTCTTAAAGGCATCACGGTGTGTGGGTCTGTG
+||||||||||   | | | ||   | || ||||       |  |||| |  |  || | ||||   | | |  || | |   |  ||    |
+CTTGTATATCATCATCAT-GACTTAAGC-TCGGAGAGTGCTGGAACACCTGTTCGTAATCTTCGGTATGACCGCATGATAACTTCGTTCCGG
+
+--------------------------------------------------------------------------------
+Iteration 60/70 - Length 256:
+Alignment Time: 0.029108 sec
+Traceback Time: 0.000000 sec
+Score: 9.200000
+
+Alignment:
+GCCTCAATACTGATTTTCTTAAACCCGACCTGTGATGTGGCGGAAGAAGAATAGGAAGTACAAACTTAGAGTCGTTTCACCTACCT-GACTAATGCAGTAAGGCGCTTGTATATCGGGACCTTTGAAGCATGCCTCGGCCGTCATTTAAACATCCATATGTACCTTCTTAAAGGCATCACGGTGTGTGGGTCTGTG
+|  ||    |   || || |     ||| |  ||||  | || |   |       |          | ||||    |    | ||| | |||  | |      |   || || |        |||  || | | || |      ||  |    | | |||     ||    || | |||  | | || |   |  |
+GAATCGGACCCCTTTATCGTTCTGACGATCA-TGATAGGACGTACTCATTTGGTAAGTACTGTTGGTCGAGTTCCCTGTGATTCCTCGGCTACAGAACCTTTTCAGCTGCATTTATCCCAACTTGTGGC-TCCTTC-GAAACTGTTCGAGTTACAAGATGCCTACTCCGGCAGTCCTCATAGAGGGTAGAAGTTAG
+
+--------------------------------------------------------------------------------
+Iteration 60/70 - Length 256:
+Alignment Time: 0.029022 sec
+Traceback Time: 0.000000 sec
+Score: 7.770000
+
+Alignment:
+AGTAAGGCGCTTGTATATCGGGACCT--TTGAAGCATGCCTCGGCCGTCATTTAAACATCCATATGTACCTTCTTAAAGGCATCACGGTGTGTGGGTCTGTGT
+|||  |  |  | |  | |    |||  | |||  ||    |    |      |  | | | || ||  |  || || |  |||| | ||    |||| | ||
+AGTGGGTTGTCTCTCGAGCTACGCCTGGTCGAACTATCTGACTATAGAGTCCGATGCGTGC-TAAGTGTCCGCTGAACGCAATCATGCTGCTGCGGTCGGGGT
+
+--------------------------------------------------------------------------------
+Iteration 60/70 - Length 256:
+Alignment Time: 0.031112 sec
+Traceback Time: 0.000000 sec
+Score: 9.310000
+
+Alignment:
+CAATACTGATTTTCTTAAACCCGACCTGTGATGTGGCGGAAGAAGAATAGGAAGTACAAACTTAGAGTCGTTTCACCTACCTGACTAATGCAGTAAGGCGCTTGTATATCGGGACCTTTGAAGCATGCCTCGGCCGTCATTTAAACATCCATATGTACCTTCTTAAAGGCAT-CACGGTGT
+|  |||    ||   |  ||||      |  |   ||   ||| | ||  ||  || |  | | ||  |||   ||   |||       |   |       | |  | |||      | | |    ||  | |       |  ||    ||   |    | |     ||  | || ||| |
+CGTTACCACATTATCTGTACCCATGAAATACTTAAGCCTCAGAGGTATCAGACTTAGATGCCT-GATACGTCCGACAGGCCTCTGAGCGGATCTGCCTTAGTCGAGTTTCGTACGGGTAGGACAGCGCGCCCGTGAGTTATGGAAGTAACACGAGGCTGTACGACTGGGAGTACATGGTTT
+
+--------------------------------------------------------------------------------
+Iteration 70/70 - Length 256:
+Alignment Time: 0.028839 sec
+Traceback Time: 0.000000 sec
+Score: 7.620000
+
+Alignment:
+ACTACGAAATAAATAGCACGTCGGAGGCGTCCACGCAGATCTGATGACCTGCATCGT
+| ||      ||  |    |     || |   | ||  |   |  ||||| ||||||
+AGTATCCGCCAATCATGGGGAGATTGGTGCGGAAGCCTAAAGGGCGACCTCCATCGT
+
+--------------------------------------------------------------------------------
+Iteration 70/70 - Length 256:
+Alignment Time: 0.028920 sec
+Traceback Time: 0.001000 sec
+Score: 8.660000
+
+Alignment:
+ATAGCACGTCGGAG-GCGTCCACGCAGATCTGATGACCTGCATCGTGATACAGGCGGAGCGGACTGGGAGCTGGAAAATCGTGTACGCTGGCCTTTGGAAGTTCGCCCCTGGAAAACGCGGGAATATATAACGTAATTCACCGAGGCACGGTAGTTG-TTGTG-GATTAGAGCCCCCATTTAACAAGGCACG
+|   |  |   ||| |   || || |    ||   | |  |||| |||   | ||   | | | ||   |    |       |||  ||    | ||   |   |           |  |   ||| |  |  |  |  || || | |  | || || |   | | ||  || |   |        ||| ||
+AGGACTAGATAGAGTGAAACCCCGTATTCTTGTATATCATCATCATGACTTAAGCTCGGAG-AGTGCTGG-AACACCTGTTCGTAATCTTCGGTATGACCGCATGATAACTTCGTTCCGGATGATAAACTAACTCTTCGACTGACGGATAGAAGCTGCTCTCGTGCTTGAAGTCAGAAGAAGGTGTGGCCCG
+
+--------------------------------------------------------------------------------
+Iteration 70/70 - Length 256:
+Alignment Time: 0.029000 sec
+Traceback Time: 0.000000 sec
+Score: 10.120000
+
+Alignment:
+TTGGAAGTTCGCCCCTGGAAAACGCGGGAATATATAACGTAATTCACCGAGGCACGGTAGTTGTTGTGGATTAGAGCCCCCATTTAACAAGGC-ACGTGACCTCTTTGGCGAAATTGAATTCCACAAGAAGCTCGTTC
+|| |||     |||||  |     | |      || |    |   ||  |     |  |||  |  |||   ||  |||     |  |  ||| ||   |||| ||  ||   ||| |   | ||  |  |||| |||
+TTCGAATCGGACCCCTTTATCGTTCTGACGATCATGATAGGACGTACTCA-TTTGGTAAGTACTGTTGGTCGAGTTCCCTGTGATTCCTCGGCTACAGAACCTTTTCAGCTGCATTTATCCCAACTTGTGGCTCCTTC
+
+--------------------------------------------------------------------------------
+Iteration 70/70 - Length 256:
+Alignment Time: 0.029108 sec
+Traceback Time: 0.000000 sec
+Score: 10.620000
+
+Alignment:
+ACGAAATAAATAGCACGTCGGAGGCGTCCACGCAGATCTGATGACCTGCATCGTGATACAGGCGGAGCGGACTGGGAGCTGGAAAATCGTGTA-CGCTGGCCTTTGGAAGTTCGCCCCTGGAAAACGCGGGAATATATAACGTAATTCACCGAGGCACGGTAGTTGTTGTGGATTAGAGCCCCCATTTAACAAGGCACGTGACCTCTTTGGCGAAAT
+|| |  | | ||    ||| || |||| |       || | ||| |   ||| || | | |  |  | ||      ||| | |    | | ||  | |   |     | |  |     |||  || |      |    |  || |   || |     |      ||          |||  || |   | | |||  ||| |||| | | |   | |
+ACTATCTGACTATAGAGTCCGATGCGTGCT-AAGTGTCCGCTGAACGCAATCATGCTGCTGCGGTCGGGGTAGATCAGC-GCATCGACATTTAGAGGTTCTCGAACCATGCACCTGGATGGCCAAAGATATGTTGGCGAGTGTGACGTACTGGTTATCCTCTTCTGCCTAACCGAGGAGAGCCTA-GAAGCGAGGGGCGTTACCTTTCTAGTATATT
+
+--------------------------------------------------------------------------------
+Iteration 70/70 - Length 256:
+Alignment Time: 0.029135 sec
+Traceback Time: 0.000000 sec
+Score: 8.160000
+
+Alignment:
+GCGGGAATATATAACGTAATTCACCGAGGCACGGTAGTTGTTGTGGATTAGAGCCCCCATTTAACAAGGCACGTGACCTCTTTGGCGAAA
+| | | |  ||| |||||||  |  ||  | | ||| || | |||   | ||  |    ||  ||| | | ||| ||| | ||  |   |
+GGGTGCAACTAT-ACGTAATGAA-GGACTC-CTGTAATTCTAGTGATGTCGATACGTTTTTGTACACGTC-CGTTACCACATTATCTGTA
+
+--------------------------------------------------------------------------------
+
+[SUMMARY] Length 256 Statistics:
+Average Alignment Time: 0.029308 sec
+Average Traceback Time: 0.000126 sec
+Total Iterations: 350
+
